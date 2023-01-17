@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="612"/>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="64"/>
+                    <attribute id="Width" type="int32" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/Icons_SecretScrolls.dds"/>
+                    <attribute id="UUID" type="FixedString" value="a85944fb-b6fd-4851-8e83-ba1754b5da0b"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="2048"/>
+                    <attribute id="Width" type="int32" value="2048"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <!-- Cantrips -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_Base"/>
+                    <attribute id="U1" type="float" value="0.0"/>
+                    <attribute id="U2" type="float" value="0.03125"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_AcidSplash"/>
+                    <attribute id="U1" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.0625"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_BladeWard"/>
+                    <attribute id="U1" type="float" value="0.0625"/>
+                    <attribute id="U2" type="float" value="0.09375"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_DancingLights"/>
+                    <attribute id="U1" type="float" value="0.09375"/>
+                    <attribute id="U2" type="float" value="0.125"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_Friends"/>
+                    <attribute id="U1" type="float" value="0.125"/>
+                    <attribute id="U2" type="float" value="0.15625"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_Light"/>
+                    <attribute id="U1" type="float" value="0.15625"/>
+                    <attribute id="U2" type="float" value="0.1875"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_MageHand"/>
+                    <attribute id="U1" type="float" value="0.1875"/>
+                    <attribute id="U2" type="float" value="0.21875"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_MinorIllusion"/>
+                    <attribute id="U1" type="float" value="0.21875"/>
+                    <attribute id="U2" type="float" value="0.25"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_PoisonSpray"/>
+                    <attribute id="U1" type="float" value="0.25"/>
+                    <attribute id="U2" type="float" value="0.28125"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_TrueStrike"/>
+                    <attribute id="U1" type="float" value="0.28125"/>
+                    <attribute id="U2" type="float" value="0.3125"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Old"/>
+                    <attribute id="U1" type="float" value="0.3125"/>
+                    <attribute id="U2" type="float" value="0.34375"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TransmutedFireSpell"/>
+                    <attribute id="U1" type="float" value="0.34375"/>
+                    <attribute id="U2" type="float" value="0.375"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TransmutedLightningSpell"/>
+                    <attribute id="U1" type="float" value="0.375"/>
+                    <attribute id="U2" type="float" value="0.40625"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TransmutedPoisonSpell"/>
+                    <attribute id="U1" type="float" value="0.40625"/>
+                    <attribute id="U2" type="float" value="0.4375"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TransmutedThunderSpell"/>
+                    <attribute id="U1" type="float" value="0.4375"/>
+                    <attribute id="U2" type="float" value="0.46875"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TransmutedSpell"/>
+                    <attribute id="U1" type="float" value="0.46875"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_EmpoweredSpell"/>
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.53125"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_DetachedSpell"/>
+                    <attribute id="U1" type="float" value="0.53125"/>
+                    <attribute id="U2" type="float" value="0.5625"/>
+                    <attribute id="V1" type="float" value="0.0"/>
+                    <attribute id="V2" type="float" value="0.03125"/>
+                </node>
+
+                <!-- 1st Level -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_FindFamiliar"/>
+                    <attribute id="U1" type="float" value="0.0"/>
+                    <attribute id="U2" type="float" value="0.03125"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_DistantExploit"/>
+                    <attribute id="U1" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.0625"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_ExtendedExploit"/>
+                    <attribute id="U1" type="float" value="0.0625"/>
+                    <attribute id="U2" type="float" value="0.09375"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_HeightenedExploit"/>
+                    <attribute id="U1" type="float" value="0.09375"/>
+                    <attribute id="U2" type="float" value="0.125"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_QuickenedExploit"/>
+                    <attribute id="U1" type="float" value="0.125"/>
+                    <attribute id="U2" type="float" value="0.15625"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_SubtleExploit"/>
+                    <attribute id="U1" type="float" value="0.15625"/>
+                    <attribute id="U2" type="float" value="0.1875"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TwinnedExploit"/>
+                    <attribute id="U1" type="float" value="0.1875"/>
+                    <attribute id="U2" type="float" value="0.21875"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_ExpandedExploit"/>
+                    <attribute id="U1" type="float" value="0.21875"/>
+                    <attribute id="U2" type="float" value="0.25"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_SeekingExploit"/>
+                    <attribute id="U1" type="float" value="0.25"/>
+                    <attribute id="U2" type="float" value="0.28125"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TransmutedAcidExploit"/>
+                    <attribute id="U1" type="float" value="0.28125"/>
+                    <attribute id="U2" type="float" value="0.3125"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TransmutedColdExploit"/>
+                    <attribute id="U1" type="float" value="0.3125"/>
+                    <attribute id="U2" type="float" value="0.34375"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TransmutedFireExploit"/>
+                    <attribute id="U1" type="float" value="0.34375"/>
+                    <attribute id="U2" type="float" value="0.375"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TransmutedLightningExploit"/>
+                    <attribute id="U1" type="float" value="0.375"/>
+                    <attribute id="U2" type="float" value="0.40625"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TransmutedPoisonExploit"/>
+                    <attribute id="U1" type="float" value="0.40625"/>
+                    <attribute id="U2" type="float" value="0.4375"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TransmutedThunderExploit"/>
+                    <attribute id="U1" type="float" value="0.4375"/>
+                    <attribute id="U2" type="float" value="0.46875"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_TransmutedExploit"/>
+                    <attribute id="U1" type="float" value="0.46875"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_EmpoweredExploit"/>
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.53125"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="SecretScrolls_Metamagic_DetachedExploit"/>
+                    <attribute id="U1" type="float" value="0.53125"/>
+                    <attribute id="U2" type="float" value="0.5625"/>
+                    <attribute id="V1" type="float" value="0.03125"/>
+                    <attribute id="V2" type="float" value="0.0625"/>
+                </node>
+
+                <!-- 2nd Level -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_EnlargeReduce"/>
+                    <attribute id="U1" type="float" value="0.0"/>
+                    <attribute id="U2" type="float" value="0.03125"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_MagicWeapon"/>
+                    <attribute id="U1" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.0625"/>
+                    <attribute id="V1" type="float" value="0.0625"/>
+                    <attribute id="V2" type="float" value="0.09375"/>
+                </node>
+
+                <!-- 3rd Level -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_BestowCurse"/>
+                    <attribute id="U1" type="float" value="0.0"/>
+                    <attribute id="U2" type="float" value="0.03125"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_Counterspell"/>
+                    <attribute id="U1" type="float" value="0.03125"/>
+                    <attribute id="U2" type="float" value="0.0625"/>
+                    <attribute id="V1" type="float" value="0.09375"/>
+                    <attribute id="V2" type="float" value="0.125"/>
+                </node>
+
+            </children>
+        </node>
+    </region>
+</save>
