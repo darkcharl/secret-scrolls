@@ -1,6 +1,6 @@
 # Secret Scrolls
 
-Adds Extra Scrolls to the game for spells that are implemented but have not been added as scrolls to the game.
+Adds Extra Scrolls to the game for spells that are implemented but have not been added as scrolls to the game or the scrolls are missing proper graphics.
 
 ## Cantrips
 
@@ -20,10 +20,20 @@ Adds Extra Scrolls to the game for spells that are implemented but have not been
 
 ## 2nd Level Spells
 
-- Enlarge/Reduce
-- Magic Weapon
+- Scroll of Enlarge/Reduce
+- Scroll of Magic Weapon
 
 ## 3rd Level Spells
 
-- Bestow Curse
-- Counterspell
+- Scroll of Animate Dead
+- Scroll of Bestow Curse
+- Scroll of Counterspell
+- Scroll of Feign Death
+- Scroll of Fireball
+- Scroll of Gaseous Form
+- Scroll of Glyph of Warding
+- Scroll of Haste
+- Scroll of Hypnotic Pattern
+- Scroll of Protection From Energy
+- Scroll of Sleet Storm
+- Scroll of Strinking Cloud
