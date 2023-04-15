@@ -43,6 +43,84 @@
 					</children>
 				</node>
 
+				<!-- Hellish Rebuke -->
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="a22988e2-7d53-4832-b85b-a50ff98efba2" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_HellishRebuke" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="eddb4ee2-79bb-49c7-8049-29ac69aa97e3" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_HellishRebuke" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_HellishRebuke" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_HellishRebuke" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				
+				<!-- Hex -->
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="c402a65e-16c4-43d1-af8c-38a345980ca9" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Hex" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="453bd284-c1f3-45eb-99e9-4f6925139b8e" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_Hex" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_Hex" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_Hex" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
 			</children>
 		</node>
 	</region>
