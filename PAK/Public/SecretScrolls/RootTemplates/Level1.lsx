@@ -4,7 +4,6 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
-				<!-- Arms of Hadar -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="98317970-b85c-4008-b68f-206c428fbc7c" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArmsOfHadar" />
@@ -42,8 +41,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- Create/Destroy Water -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="b9e58b18-d978-41d6-9a8d-eb349988360e" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_CreateDestroyWater" />
@@ -81,8 +78,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- Dissonant Whispers -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="d7ebd52e-4d63-4998-a644-f9d8c382a056" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_DissonantWhispers" />
@@ -120,8 +115,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- Faerie Fire -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="a957ce07-cbcc-4832-9f57-62f20861772d" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_FaerieFire" />
@@ -159,8 +152,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- Find Familiar -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="a14477fa-0975-4ad0-a7c4-4462999a68cf" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_FindFamiliar" />
@@ -198,8 +189,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- Hellish Rebuke -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="a22988e2-7d53-4832-b85b-a50ff98efba2" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_HellishRebuke" />
@@ -237,8 +226,6 @@
 						</node>
 					</children>
 				</node>
-				
-				<!-- Hex -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="c402a65e-16c4-43d1-af8c-38a345980ca9" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Hex" />
@@ -276,7 +263,6 @@
 						</node>
 					</children>
 				</node>
-
 			</children>
 		</node>
 	</region>

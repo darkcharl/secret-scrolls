@@ -4,7 +4,6 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
-				<!-- Acid Splash -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="6653d043-40a4-4fe0-99da-8766fbdd3863" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_AcidSplash" />
@@ -42,8 +41,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- Blade Ward -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="3672637d-4b3c-40ab-9fc4-3e828c2e3aed" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_BladeWard" />
@@ -81,8 +78,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- Dancing Lights -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="64e376cc-cb45-47be-afbe-a4f8948215e2" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_DancingLights" />
@@ -120,8 +115,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- Friends -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="1d3848a9-4197-46df-bd52-549ea8b6bd0c" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Friends" />
@@ -159,8 +152,6 @@
 						</node>
 					</children>
 				</node>
-				
-				<!-- Light -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="f3a9064b-a630-48e2-834a-a36d4806094c" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Light" />
@@ -198,8 +189,6 @@
 						</node>
 					</children>
 				</node>
-				
-				<!-- Mage Hand -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="abee295f-a52d-4cde-bf2f-e5345b09ac01" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_MageHand" />
@@ -237,8 +226,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- Minor Illusion -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="b267c8e7-2c1b-4e8e-bb3c-f899f8542054" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_MinorIllusion" />
@@ -276,8 +263,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- Poison Spray -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="c6dbcab0-cb1b-45f7-a70a-718b678a9d01" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_PoisonSpray" />
@@ -315,8 +300,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- True Strike -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="6ba4f189-76d6-49c7-829d-9ef8d0fba261" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_TrueStrike" />
@@ -354,7 +337,6 @@
 						</node>
 					</children>
 				</node>
-
 			</children>
 		</node>
 	</region>

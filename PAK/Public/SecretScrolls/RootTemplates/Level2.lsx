@@ -4,7 +4,6 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
-				<!-- Enhance Ability -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="d54eba05-3f5e-4876-a326-a66add91d3fc" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_EnhanceAbility" />
@@ -42,8 +41,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- Enlarge / Reduce -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="b20fa68d-42bf-4bba-9e22-ad4b72950d4c" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_EnlargeReduce" />
@@ -81,8 +78,6 @@
 						</node>
 					</children>
 				</node>
-
-				<!-- Magic Weapon -->
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="5062bf64-b75a-46ab-9920-5fff5bd5b36b" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_MagicWeapon" />
@@ -120,7 +115,6 @@
 						</node>
 					</children>
 				</node>
-
 			</children>
 		</node>
 	</region>
