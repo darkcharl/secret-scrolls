@@ -78,43 +78,6 @@
 						</node>
 					</children>
 				</node>
-				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="5062bf64-b75a-46ab-9920-5fff5bd5b36b" version="1" />
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_MagicWeapon" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="2aa131c8-4e65-4cc2-8bd1-7e30b6d15c72" />
-					<attribute id="Name" type="LSString" value="" />
-					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
-					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_MagicWeapon" />
-					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
-					<children>
-						<node id="OnUsePeaceActions">
-							<children>
-								<node id="Action">
-									<attribute id="ActionType" type="int32" value="12" />
-									<children>
-										<node id="Attributes">
-											<attribute id="Animation" type="FixedString" value="" />
-											<attribute id="Consume" type="bool" value="True" />
-											<attribute id="SkillID" type="FixedString" value="Target_MagicWeapon" />
-										</node>
-									</children>
-								</node>
-								<node id="Action">
-									<attribute id="ActionType" type="int32" value="33" />
-									<children>
-										<node id="Attributes">
-											<attribute id="Animation" type="FixedString" value="" />
-											<attribute id="Consume" type="bool" value="True" />
-											<attribute id="SpellId" type="FixedString" value="Target_MagicWeapon" />
-										</node>
-									</children>
-								</node>
-							</children>
-						</node>
-					</children>
-				</node>
 			</children>
 		</node>
 	</region>
