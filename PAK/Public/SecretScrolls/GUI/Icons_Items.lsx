@@ -201,7 +201,7 @@
                     <attribute id="V2" type="float" value="0.0625"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="TBD"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_Shield"/>
                     <attribute id="U1" type="float" value="0.21875"/>
                     <attribute id="U2" type="float" value="0.25"/>
                     <attribute id="V1" type="float" value="0.03125"/>
