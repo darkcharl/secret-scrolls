@@ -1,0 +1,15 @@
+Target_Barkskin
+Target_Smite_Branding_Container
+Target_CalmEmotions
+Target_EnhanceAbility
+Target_Enthrall
+Target_HeatMetal
+Target_LesserRestoration
+Target_Moonbeam
+Shout_PassWithoutTrace
+Shout_PrayerOfHealing
+Target_ProtectionFromPoison
+Target_Silence
+Target_SpikeGrowth
+Target_SpiritualWeapon
+Target_WardingBond

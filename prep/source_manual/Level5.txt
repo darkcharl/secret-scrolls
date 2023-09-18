@@ -1,0 +1,9 @@
+Projectile_CursedTome_CurriculumofStrategy
+Target_Contagion
+Shout_DestructiveWave
+Projectile_CursedTome_Dethrone
+Shout_DispelEvilAndGood
+Target_FlameStrike
+Target_GreaterRestoration
+Target_InsectPlague
+Target_CureWounds_Mass
