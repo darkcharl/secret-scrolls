@@ -1,0 +1,13 @@
+Shout_AuraOfVitality
+Shout_BeaconOfHope
+Target_Smite_Blinding
+Target_CallLightning
+Zone_ConjureBarrage
+Shout_CrusadersMantle
+Target_Daylight_Container
+Target_ElementalWeapon
+Target_HungerOfHadar
+Shout_HealingWord_Mass
+Projectile_LightningArrow
+Target_PlantGrowth
+Shout_SpiritGuardians

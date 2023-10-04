@@ -1,0 +1,9 @@
+Teleportation_ArcaneGate
+Wall_BladeBarrier
+Target_CreateUndead
+Target_Harm
+Target_Heal
+Shout_HeroesFeast
+Target_PlanarAlly_Container
+Wall_WallOfThorns
+Shout_WindWalk

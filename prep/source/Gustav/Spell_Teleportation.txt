@@ -1,0 +1,11 @@
+new entry "Teleportation_HAG_HusbandResurrection"
+type "SpellData"
+data "SpellType" "Teleportation"
+using "Teleportation_Resurrection"
+data "SpellProperties" "RegainHitPoints(1); Resurrect(100,10);RestoreResource(Movement, 100%, 0);UseActionResource(ActionPoint,100%,0);UseActionResource(BonusActionPoint,100%,0);RemoveStatus(HAG_CORPSEROOT)"
+data "TargetConditions" "not Self() and not Item() and Dead() and Tagged('ACT1_HAG_HUSBAND')"
+data "SpellAnimation" "9745d2e5-2519-411a-947f-7545e0095d85,,;,,;82842aef-9961-4566-b854-113470749e4e,,;2f4e48ee-3349-42ff-bcd2-6b32df5915ab,,;,,;,,;,,;,,;,,"
+data "PrepareEffect" "63de2f8e-d6f7-48be-9e69-e07517ed6217"
+data "CastEffect" "efa7c4f8-2920-48d6-be69-563094a290ac"
+data "DisappearEffect" "318e95be-3624-44a1-8ca9-b0ff93c38e7f"
+

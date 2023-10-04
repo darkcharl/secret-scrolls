@@ -1,0 +1,27 @@
+new entry "Teleportation_END_Orpheus_DimensionDoor"
+type "SpellData"
+data "SpellType" "Teleportation"
+using "Teleportation_DimensionDoor"
+data "UseCosts" "ActionPoint:1;KiPoint:2"
+
+new entry "Teleportation_MAG_ArcaneGate"
+type "SpellData"
+data "SpellType" "Teleportation"
+using "Teleportation_ArcaneGate"
+data "Cooldown" "OncePerRestPerItem"
+data "UseCosts" "ActionPoint:1"
+
+new entry "Teleportation_MAG_Revivify"
+type "SpellData"
+data "SpellType" "Teleportation"
+using "Teleportation_Revivify"
+data "Cooldown" "OncePerRestPerItem"
+data "UseCosts" "ActionPoint:1"
+
+new entry "Teleportation_MAG_Dolor_DimensionDoor"
+type "SpellData"
+data "SpellType" "Teleportation"
+using "Teleportation_DimensionDoor"
+data "Cooldown" "OncePerRestPerItem"
+data "UseCosts" "ActionPoint:1"
+

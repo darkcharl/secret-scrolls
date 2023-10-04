@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<save>
+	<version major="4" minor="0" revision="9" build="309"/>
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="3cffa703-6d50-45fa-9abc-cc07bc0821bb" version="1"/>
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_WindWalk"/>
+					<attribute id="LevelName" type="FixedString" value=""/>
+					<attribute id="MapKey" type="FixedString" value="a4efb0c1-3747-4012-853c-7639628a277e"/>
+					<attribute id="Name" type="LSString" value=""/>
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806"/>
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_WindWalk"/>
+					<attribute id="Type" type="FixedString" value="item"/>
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810"/>
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12"/>
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value=""/>
+											<attribute id="Consume" type="bool" value="True"/>
+											<attribute id="SkillID" type="FixedString" value="Shout_WindWalk"/>
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33"/>
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value=""/>
+											<attribute id="Consume" type="bool" value="True"/>
+											<attribute id="SpellId" type="FixedString" value="Shout_WindWalk"/>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
