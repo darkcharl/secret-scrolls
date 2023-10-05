@@ -24,6 +24,8 @@
 											<attribute id="Animation" type="FixedString" value=""/>
 											<attribute id="Consume" type="bool" value="True"/>
 											<attribute id="SkillID" type="FixedString" value="Shout_PrayerOfHealing"/>
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Shout_PrayerOfHealing&quot;)"/>
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-aa9e-4877c0e8094d"/>
 										</node>
 									</children>
 								</node>
