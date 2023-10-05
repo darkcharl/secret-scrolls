@@ -35,7 +35,7 @@ def add_class_lock(xml, class_id="a865965f-501b-46e9-aa9e-4877c0e8094d"):
             condition = {
                 '@id': 'Conditions',
                 '@type': 'LSString',
-                '@value': f'CanUseScroll("{spell_name}")',
+                '@value': f'CanUseSpellScroll("{spell_name}")',
             }
             action_attributes.append(condition)
             class_id = {
