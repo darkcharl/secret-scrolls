@@ -1,0 +1,8 @@
+new entry "SHIELD_SCROLL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "603ae901-7562-410e-92e6-3f6038bf68ec;1"
+data "Description" "d3d1fd1f-fda4-400d-b4c7-94028c056799;1"
+data "StackId" "SHIELD_SCROLL"
+data "Boosts" "UnlockInterrupt(Interrupt_Shield_Scroll)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
