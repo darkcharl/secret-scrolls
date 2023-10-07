@@ -11,7 +11,7 @@
 					<attribute id="MapKey" type="FixedString" value="491dc606-fc7a-4faf-87ba-d59333c5806f"/>
 					<attribute id="Name" type="LSString" value=""/>
 					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806"/>
-					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_CursedTome"/>
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_Dethrone"/>
 					<attribute id="Type" type="FixedString" value="item"/>
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810"/>
 					<children>
