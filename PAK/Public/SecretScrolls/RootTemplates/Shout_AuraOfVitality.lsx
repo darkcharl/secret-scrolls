@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="79c39c07-06fb-4d89-8da0-a5aea83b7388" version="1"/>
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_WardenOfVitality"/>
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_AuraOfVitality"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="6044a256-4e71-4504-9352-8cbe674289f7"/>
 					<attribute id="Name" type="LSString" value=""/>
