@@ -23,8 +23,8 @@
 										<node id="Attributes">
 											<attribute id="Animation" type="FixedString" value=""/>
 											<attribute id="Consume" type="bool" value="True"/>
-											<attribute id="SkillID" type="FixedString" value="Projectile_EnsnaringStrike"/>
-											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Projectile_EnsnaringStrike&quot;)"/>
+											<attribute id="SkillID" type="FixedString" value="Projectile_EnsnaringStrike_Container"/>
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Projectile_EnsnaringStrike_Container&quot;)"/>
 											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-aa9e-4877c0e8094d"/>
 										</node>
 									</children>
@@ -35,7 +35,7 @@
 										<node id="Attributes">
 											<attribute id="Animation" type="FixedString" value=""/>
 											<attribute id="Consume" type="bool" value="True"/>
-											<attribute id="SpellId" type="FixedString" value="Projectile_EnsnaringStrike"/>
+											<attribute id="SpellId" type="FixedString" value="Projectile_EnsnaringStrike_Container"/>
 										</node>
 									</children>
 								</node>
