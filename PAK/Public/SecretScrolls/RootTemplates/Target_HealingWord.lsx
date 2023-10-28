@@ -25,7 +25,7 @@
 											<attribute id="Consume" type="bool" value="True"/>
 											<attribute id="SkillID" type="FixedString" value="Target_HealingWord"/>
 											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Target_HealingWord&quot;)"/>
-											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-aa9e-4877c0e8094d"/>
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09"/>
 										</node>
 									</children>
 								</node>
