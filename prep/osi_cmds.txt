@@ -9,3 +9,6 @@ Osi.TemplateAddTo("c43836b0-a331-4530-b604-92f89d07720b", GetHostCharacter(), 1,
 
 # Add Spell of Find Familiar, Quasit
 Osi.AddSpell(GetHostCharacter(), "Target_FindFamiliar_Quasit", 0, 0)
+
+# Add Scroll of Danse Macabre
+Osi.TemplateAddTo("a88ebf23-4049-4aba-aa2a-a31f8d437cbc", GetHostCharacter(), 1, 1)
