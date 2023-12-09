@@ -1,0 +1,11 @@
+# Add Scroll of Imp
+Osi.TemplateAddTo("4a44fd8c-986c-42a3-ab33-a2ed5bd1e146", GetHostCharacter(), 1, 1)
+
+# Add Spell of Find Familiar, Imp
+Osi.AddSpell(GetHostCharacter(), "Target_FindFamiliar_Imp", 0, 0)
+
+# Add Scroll of Quasit
+Osi.TemplateAddTo("c43836b0-a331-4530-b604-92f89d07720b", GetHostCharacter(), 1, 1)
+
+# Add Spell of Find Familiar, Quasit
+Osi.AddSpell(GetHostCharacter(), "Target_FindFamiliar_Quasit", 0, 0)
