@@ -1,0 +1,1 @@
+Gustav_PAK/Public/GustavDev/Stats/Generated/Data/Object.txt:using "OBJ_Scroll_FleshToStone"
