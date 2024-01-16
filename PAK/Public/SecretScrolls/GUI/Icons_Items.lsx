@@ -3195,7 +3195,7 @@
                     <attribute id="V2" type="float" value="0.46875"/>
                 </node>			
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_BanishingSmite"/>
                     <attribute id="U1" type="float" value="0.03125"/>
                     <attribute id="U2" type="float" value="0.0625"/>
                     <attribute id="V1" type="float" value="0.4375"/>
