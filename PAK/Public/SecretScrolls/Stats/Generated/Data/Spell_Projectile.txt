@@ -1,0 +1,8 @@
+new entry "Projectile_Smite_Banishing_Container"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_Smite_Banishing"
+data "SpellContainerID" ""
+data "ContainerSpells" "Projectile_Smite_Banishing;Target_Smite_Banishing"
+data "SpellFlags" "IsSpell;HasVerbalComponent;IsConcentration;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;IsLinkedSpellContainer"
+data "WeaponTypes" ""
