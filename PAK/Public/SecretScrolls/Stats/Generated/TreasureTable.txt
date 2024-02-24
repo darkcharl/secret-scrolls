@@ -1,0 +1,27 @@
+new treasuretable "LOW_CountingHouse_HighSecurityVault_8"
+CanMerge 1
+new subtable "1,1"
+object category "MagicScroll_7",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "MagicScroll_8",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_OmeluumSupplies_Reward"
+CanMerge 1
+new subtable "1,1"
+object category "MagicScroll_7",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "MagicScroll_8",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_WQH_AllandraChest"
+CanMerge 1
+new subtable "1,1"
+object category "MagicScroll_8",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SorcerousSundries_MystraVault_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "MagicScroll_7",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "MagicScroll_8",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "MagicScroll_9",1,0,0,0,0,0,0,0
