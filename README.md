@@ -2,28 +2,28 @@
 
 Adds Extra Scrolls to the game for spells that are implemented but have not been added as scrolls to the game or the scrolls are missing proper graphics.
 
-# Cantrips
+## Cantrips
 
-- AcidSplash
-- BladeWard
-- DancingLights
-- EldritchBlast
+- Acid Splash
+- Blade Ward
+- Dancing Lights
+- Eldritch Blast
 - Friends
 - Guidance
 - Light
-- MageHand
-- MinorIllusion
-- PoisonSpray
-- ProduceFlame
+- Mage Hand
+- Minor Illusion
+- Poison Spray
+- Produce Flame
 - Resistance
-- SacredFlame
+- Sacred  Flame
 - Shillelagh
 - Thaumaturgy
-- ThornWhip
-- TrueStrike
-- ViciousMockery
+- Thorn Whip
+- True Strike
+- Vicious Mockery
 
-# Level 1
+## Level 1
 
 - Animal Friendship
 - Armor of Agathys
@@ -60,7 +60,7 @@ Adds Extra Scrolls to the game for spells that are implemented but have not been
 - Thunderous Smite
 - Wrathful Smite
 
-# Level 2
+## Level 2
 
 - Aid
 - Barkskin
@@ -80,7 +80,7 @@ Adds Extra Scrolls to the game for spells that are implemented but have not been
 - Spiritual Weapon
 - Warding Bond
 
-# Level 3
+## Level 3
 
 - Aura Of Vitality
 - Beacon Of Hope
@@ -97,7 +97,7 @@ Adds Extra Scrolls to the game for spells that are implemented but have not been
 - Plant Growth
 - Spirit Guardians
 
-# Level 4
+## Level 4
 
 - Arcane Eye
 - Conjure Woodland Beings
@@ -107,9 +107,10 @@ Adds Extra Scrolls to the game for spells that are implemented but have not been
 - Greater Invisibility
 - Guardian Of Faith
 
-# Level 5
+## Level 5
 
 - Art Of War
+- Banishing Smite
 - Contagion
 - Danse Macabre
 - Destructive Wave
@@ -120,14 +121,24 @@ Adds Extra Scrolls to the game for spells that are implemented but have not been
 - Insect Plague
 - Mass Cure Wounds
 
-# Level 6
+## Level 6
 
 - Arcane Gate
 - Blade Barrier
 - Create Undead
+- Flesh to Gold
 - Harm
 - Heal
 - Heroes Feast
 - Planar Ally
+- True Seeing
 - Wall Of Thorns
 - Wind Walk
+
+## Level 7
+
+- Finger Of Death
+
+## Level 9
+
+- Power Word Kill
