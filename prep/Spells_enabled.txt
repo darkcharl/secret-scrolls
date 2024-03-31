@@ -50,6 +50,7 @@ Target_DancingLights
 Target_Daylight_Container
 Target_DeathWard
 Target_DissonantWhispers
+Target_DominateBeast
 Target_ElementalWeapon
 Target_EnhanceAbility
 Target_EnsnaringStrike_Container
