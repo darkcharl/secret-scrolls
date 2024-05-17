@@ -23,8 +23,8 @@
 										<node id="Attributes">
 											<attribute id="Animation" type="FixedString" value=""/>
 											<attribute id="Consume" type="bool" value="True"/>
-											<attribute id="SkillID" type="FixedString" value="Target_Smite_Branding_Container"/>
-											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Target_Smite_Branding_Container&quot;)"/>
+											<attribute id="SkillID" type="FixedString" value="Target_Smite_Branding"/>
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Target_Smite_Branding&quot;)"/>
 											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09"/>
 										</node>
 									</children>
