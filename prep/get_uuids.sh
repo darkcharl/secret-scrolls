@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-grep -i root ../PAK/Public/SecretScrolls/Stats/Generated/Data/Object_SecretScrolls.txt | awk '{ print $3 "," }'
+sed -En 's/^(new entry "[^"]+"|data "RootTemplate" "[^"]+"|^$)/\1/p' ../PAK/Public/SecretScrolls/Stats/Generated/Data/Object_SecretScrolls.txt | tr -d '"' | awk '{ print $NF }'
+
