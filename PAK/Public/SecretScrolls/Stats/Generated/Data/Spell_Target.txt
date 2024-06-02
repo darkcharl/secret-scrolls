@@ -1,3 +1,17 @@
+
+new entry "Target_ConjureShadowLanternWraith"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_CreateUndead"
+data "SpellProperties" "SwitchDeathType(Explode);GROUND:Summon(122ce989-2603-4bf4-a3ee-8b2513c39d5e, -1,,,'ShadowSummonStack',MAG_SHADOW_SUMMON,UNSUMMON_ABLE)"
+data "RequirementConditions" ""
+data "TargetConditions" "CanStand('122ce989-2603-4bf4-a3ee-8b2513c39d5e')"
+data "Icon" "Spell_Gale_ShadowSummon"
+data "DisplayName" "hf78e8d25gdd3eg4c56ga374ged5505126e86;2"
+data "Description" "h6913f440g868bg45dbg8005gec729faa02ee;2"
+data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:6"
+data "SpellFlags" "IsSpell;HasVerbalComponent;HasSomaticComponent"
+
 new entry "Target_FindFamiliar_Imp"
 type "SpellData"
 data "SpellType" "Target"

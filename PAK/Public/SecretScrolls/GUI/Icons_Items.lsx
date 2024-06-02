@@ -3428,7 +3428,7 @@
                     <attribute id="V2" type="float" value="0.5"/>
                 </node>							
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="_SecretScrolls"/>
+                    <attribute id="MapKey" type="FixedString" value="Item_LOOT_SCROLL_ConjureShadowLanternWraith"/>
                     <attribute id="U1" type="float" value="0.0625"/>
                     <attribute id="U2" type="float" value="0.09375"/>
                     <attribute id="V1" type="float" value="0.46875"/>
