@@ -1,3 +1,0 @@
-new entry "Interrupt_Shield_Scroll"
-type "InterruptData"
-using "Interrupt_Shield_Wizard"
