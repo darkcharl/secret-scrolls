@@ -8,7 +8,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="3abfcedb-191e-4411-bee2-3ddf676d869b" version="1"/>
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Aid"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
-					<attribute id="MapKey" type="FixedString" value="2b133ecd-0fb3-4988-839e-8cff8bf20f20"/>
+					<attribute id="MapKey" type="FixedString" value="3e85f140-2284-430b-b11f-2126cd85b567"/>
 					<attribute id="Name" type="LSString" value=""/>
 					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806"/>
 					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_Aid"/>
