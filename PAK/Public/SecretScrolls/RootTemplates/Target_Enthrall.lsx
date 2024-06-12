@@ -29,16 +29,6 @@
 										</node>
 									</children>
 								</node>
-								<node id="Action">
-									<attribute id="ActionType" type="int32" value="33"/>
-									<children>
-										<node id="Attributes">
-											<attribute id="Animation" type="FixedString" value=""/>
-											<attribute id="Consume" type="bool" value="True"/>
-											<attribute id="SpellId" type="FixedString" value="Target_Enthrall"/>
-										</node>
-									</children>
-								</node>
 							</children>
 						</node>
 					</children>
