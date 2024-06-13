@@ -1,6 +1,0 @@
-new entry "Teleportation_TrueResurrection"
-type "SpellData"
-data "SpellType" "Teleportation"
-using "Teleportation_TrueResurrection_Scroll"
-data "Level" "9"
-data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:9"
