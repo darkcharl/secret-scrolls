@@ -9,7 +9,7 @@
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_DeathWard"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="25d1d906-f686-4f60-ae2b-598d42976c8c"/>
-					<attribute id="Name" type="LSString" value=""/>
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_DeathWard"/>
 					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806"/>
 					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_DeathWard"/>
 					<attribute id="Type" type="FixedString" value="item"/>

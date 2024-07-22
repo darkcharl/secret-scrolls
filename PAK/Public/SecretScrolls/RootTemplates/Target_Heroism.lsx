@@ -9,7 +9,7 @@
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Heroism"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="8c6c131c-4b92-4c42-aac1-9010875884c6"/>
-					<attribute id="Name" type="LSString" value=""/>
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_Heroism"/>
 					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806"/>
 					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_Heroism"/>
 					<attribute id="Type" type="FixedString" value="item"/>

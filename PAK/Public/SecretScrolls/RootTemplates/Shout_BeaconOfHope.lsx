@@ -9,7 +9,7 @@
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_BeaconOfHope"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="a8ab14dd-9791-4da6-86d3-babe39b70a4a"/>
-					<attribute id="Name" type="LSString" value=""/>
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_BeaconOfHope"/>
 					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806"/>
 					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_BeaconOfHope"/>
 					<attribute id="Type" type="FixedString" value="item"/>

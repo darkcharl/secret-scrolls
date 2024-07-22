@@ -9,7 +9,7 @@
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_Guidance"/>
 					<attribute id="LevelName" type="FixedString" value=""/>
 					<attribute id="MapKey" type="FixedString" value="7fc8bfbc-23f5-4e8a-abd9-4527aef66021"/>
-					<attribute id="Name" type="LSString" value=""/>
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_Guidance"/>
 					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806"/>
 					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_Guidance"/>
 					<attribute id="Type" type="FixedString" value="item"/>
