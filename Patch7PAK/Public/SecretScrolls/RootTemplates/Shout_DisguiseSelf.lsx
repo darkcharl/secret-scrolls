@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<save>
+	<version major="4" minor="0" revision="9" build="309"/>
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="3fa8bbf1-8ee4-4b56-94cb-5dd7b4a83a6a" version="1"/>
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_DisguiseSelf"/>
+					<attribute id="LevelName" type="FixedString" value=""/>
+					<attribute id="MapKey" type="FixedString" value="ebd500e2-00c0-4633-bee1-883ec940588d"/>
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_DisguiseSelf"/>
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806"/>
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_DisguiseSelf"/>
+					<attribute id="Type" type="FixedString" value="item"/>
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810"/>
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12"/>
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value=""/>
+											<attribute id="Consume" type="bool" value="True"/>
+											<attribute id="SkillID" type="FixedString" value="Shout_DisguiseSelf"/>
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Shout_DisguiseSelf&quot;)"/>
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09"/>
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33"/>
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value=""/>
+											<attribute id="Consume" type="bool" value="True"/>
+											<attribute id="SpellId" type="FixedString" value="Shout_DisguiseSelf"/>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

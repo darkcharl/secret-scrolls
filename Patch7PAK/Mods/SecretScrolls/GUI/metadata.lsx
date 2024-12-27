@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="config">
+		<node id="config">
+			<children>
+				<node id="entries">
+					<children>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_AcidSplash.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Aid.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_AnimalFriendship.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ArcaneGate.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ArmorOfAgathys.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ArmsOfHadar.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_AuraOfVitality.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Bane.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Barkskin.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Base.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_BeaconOfHope.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_BladeBarrier.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_BladeWard.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Bless.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_BlindingSmite.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_BrandingSmite.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_CallLightning.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_CalmEmotions.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Command.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_CompelledDuel.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ConjureBarrage.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ConjureWoodlandBeings.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Contagion.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Counterspell.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_CreateDestroyWater.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_CreateUndead.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_CrusadersMantle.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_CureWounds.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_DancingLights.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Daylight.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_DeathWard.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_DestructiveWave.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_DisguiseSelf.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_DispelEvilAndGood.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_DissonantWhispers.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_DivineFavor.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_DominateBeast.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_EldritchBlast.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ElementalWeapon.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_EnhanceAbility.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_EnsnaringStrike.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Entangle.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Enthrall.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ExpeditiousRetreat.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_FaerieFire.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_FlameBlade.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_FlameStrike.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_FreedomOfMovement.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Friends.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Goodberry.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_GraspingVine.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_GreaterInvisibility.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_GreaterRestoration.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_GuardianOfFaith.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Guidance.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_GuidingBolt.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_HailOfThorns.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Harm.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Heal.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_HealingWord.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_HeatMetal.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_HellishRebuke.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_HeroesFeast.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Heroism.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Hex.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_HungerOfHadar.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_HuntersMark.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_InflictWounds.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_InsectPlague.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_LesserRestoration.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Light.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_LightningArrow.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MageHand.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MassCureWounds.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MassHealingWord.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_MinorIllusion.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Moonbeam.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_PassWithoutTrace.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_PlanarAlly.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_PlantGrowth.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_PoisonSpray.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_PrayerOfHealing.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ProduceFlame.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ProtectionFromPoison.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Resistance.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SacredFlame.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Sanctuary.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SearingSmite.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Shield.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ShieldOfFaith.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Shillelagh.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Silence.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SpeakWithAnimals.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SpikeGrowth.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SpiritGuardians.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_SpiritualWeapon.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_Thaumaturgy.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ThornWhip.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ThunderousSmite.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_TrueStrike.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_ViciousMockery.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_WallOfThorns.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_WardingBond.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_WindWalk.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Tooltips/ItemIcons/Item_LOOT_SCROLL_WrathfulSmite.DDS" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="380" />
+									<attribute id="mipcount" type="int8" value="1" />
+									<attribute id="w" type="int16" value="380" />
+								</node>
+							</children>
+						</node>							
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
