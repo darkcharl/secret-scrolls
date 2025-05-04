@@ -174,7 +174,7 @@ data "MinAmount" "1"
 data "MaxAmount" "1"
 data "Priority" "1"
 
-new entry "OBJ_Scroll_TolltheDead"
+new entry "OBJ_Scroll_TollTheDead"
 type "Object"
 using "_MagicScroll"
 data "RootTemplate" "b0175552-9473-4b75-9c32-8b5d5e16d652"
