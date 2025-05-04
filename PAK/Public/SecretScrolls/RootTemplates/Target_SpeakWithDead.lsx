@@ -1,34 +1,34 @@
-<?xml version="1.0" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="9" build="309"/>
+	<version major="4" minor="0" revision="9" build="309" lslib_meta="v1,bswap_guids" />
 	<region id="Templates">
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="hdb0df56dga3d1g4422ga77eg5a5e78d1acb8" version="1"/>
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_SpeakWithDead"/>
-					<attribute id="LevelName" type="FixedString" value=""/>
-					<attribute id="MapKey" type="FixedString" value="36d01b98-1702-4d00-81a9-1b8469dd67a5"/>
-					<attribute id="Name" type="LSString" value="LOOT_SCROLL_SpeakWithDead"/>
-					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806"/>
-					<attribute id="PhysicsTemplate" type="FixedString" value="94a7c400-b2df-c54c-1675-1937920b7714"/>
-					<attribute id="ReadinessFlags" type="uint32" value="8"/>
-					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_SpeakWithDead"/>
-					<attribute id="Type" type="FixedString" value="item"/>
-					<attribute id="VisualTemplate" type="FixedString" value="916f78a4-779b-3e43-28eb-eefc26d9683d"/>
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209013"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="hdb0df56dga3d1g4422ga77eg5a5e78d1acb8" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_SpeakWithDead" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="36d01b98-1702-4d00-81a9-1b8469dd67a5" />
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_SpeakWithDead" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="94a7c400-b2df-c54c-1675-1937920b7714" />
+					<attribute id="ReadinessFlags" type="uint32" value="8" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_SpeakWithDead" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="916f78a4-779b-3e43-28eb-eefc26d9683d" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209013" />
 					<children>
 						<node id="OnUsePeaceActions">
 							<children>
 								<node id="Action">
-									<attribute id="ActionType" type="int32" value="12"/>
+									<attribute id="ActionType" type="int32" value="12" />
 									<children>
 										<node id="Attributes">
-											<attribute id="Animation" type="FixedString" value=""/>
-											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09"/>
-											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Target_SpeakWithDead&quot;)"/>
-											<attribute id="Consume" type="bool" value="True"/>
-											<attribute id="SkillID" type="FixedString" value="Target_SpeakWithDead"/>
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Target_SpeakWithDead&quot;)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_SpeakWithDead" />
 										</node>
 									</children>
 								</node>

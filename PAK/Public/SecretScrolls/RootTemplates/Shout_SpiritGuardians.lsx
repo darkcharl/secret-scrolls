@@ -1,31 +1,31 @@
-<?xml version="1.0" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="9" build="309"/>
+	<version major="4" minor="0" revision="9" build="309" lslib_meta="v1,bswap_guids" />
 	<region id="Templates">
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="00773bfc-130a-4076-a08b-6203ea7f951a" version="1"/>
-					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_SpiritGuardians"/>
-					<attribute id="LevelName" type="FixedString" value=""/>
-					<attribute id="MapKey" type="FixedString" value="3f6cdeb0-3dc5-4202-bd49-825658f26d81"/>
-					<attribute id="Name" type="LSString" value="LOOT_SCROLL_SpiritGuardians"/>
-					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806"/>
-					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_SpiritGuardians"/>
-					<attribute id="Type" type="FixedString" value="item"/>
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="00773bfc-130a-4076-a08b-6203ea7f951a" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_SpiritGuardians" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="3f6cdeb0-3dc5-4202-bd49-825658f26d81" />
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_SpiritGuardians" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_SpiritGuardians" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241810" />
 					<children>
 						<node id="OnUsePeaceActions">
 							<children>
 								<node id="Action">
-									<attribute id="ActionType" type="int32" value="12"/>
+									<attribute id="ActionType" type="int32" value="12" />
 									<children>
 										<node id="Attributes">
-											<attribute id="Animation" type="FixedString" value=""/>
-											<attribute id="Consume" type="bool" value="True"/>
-											<attribute id="SkillID" type="FixedString" value="Shout_SpiritGuardians"/>
-											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Shout_SpiritGuardians&quot;)"/>
-											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09"/>
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Shout_SpiritGuardians" />
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Shout_SpiritGuardians&quot;)" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
 										</node>
 									</children>
 								</node>
