@@ -3,6 +3,9 @@
 Rename template files from SpellType_SpellName.{lsx,lsf} to
 LOOT_SCROLL_SpellName_UUID.{lsx,lsf} to match BG3 vanilla naming conventions.
 
+Also patches the Name attribute in LSX files when it is empty (so LSF
+recompilation produces templates with the correct Name value).
+
 Run from the prep/ directory.
 """
 
@@ -28,6 +31,22 @@ def get_lsx_attrs(path):
     return name, mapkey, stats
 
 
+def patch_lsx_name(path, loot_name):
+    """Set the Name attribute in the LSX file to loot_name if it is currently empty."""
+    tree = ET.parse(path)
+    root = tree.getroot()
+    patched = False
+    for attr in root.iter('attribute'):
+        if attr.get('id') == 'Name' and attr.get('value', '') == '':
+            attr.set('value', loot_name)
+            patched = True
+            break
+    if patched:
+        ET.indent(tree, space='\t')
+        tree.write(path, encoding='unicode', xml_declaration=True)
+        print(f'  [p] patched Name="{loot_name}" in {os.path.basename(path)}')
+
+
 def rename_pair(directory, old_stem, new_stem):
     for ext in ('.lsx', '.lsf'):
         old = os.path.join(directory, old_stem + ext)
@@ -44,8 +63,8 @@ def rename_pair(directory, old_stem, new_stem):
 
 def process_dir(directory, name_source):
     """
-    name_source: 'Name' to use LSX Name attr (PAK files),
-                 'Stats' to derive from Stats attr (prep files, where Name=="")
+    name_source: 'Name' to use LSX Name attr (PAK files with Name already set),
+                 'Stats' to derive from Stats attr and patch LSX Name attr
     """
     lsx_files = sorted(f for f in os.listdir(directory) if f.endswith('.lsx'))
     for fname in lsx_files:
@@ -55,8 +74,9 @@ def process_dir(directory, name_source):
         if name_source == 'Name':
             loot_name = name
         else:
-            # Stats = "OBJ_Scroll_AnimalFriendship" → "LOOT_SCROLL_AnimalFriendship"
+            # Stats = "OBJ_Scroll_AnimalFriendship" -> "LOOT_SCROLL_AnimalFriendship"
             loot_name = 'LOOT_SCROLL_' + re.sub(r'^OBJ_Scroll_', '', stats)
+            patch_lsx_name(path, loot_name)
 
         if not loot_name or not mapkey:
             print(f'  [!] skipping {fname} — could not determine name or uuid')
@@ -69,12 +89,19 @@ def process_dir(directory, name_source):
 
 if __name__ == '__main__':
     script_dir = os.path.dirname(os.path.abspath(__file__))
+    scrolls_root = os.path.join(script_dir, '../..')
 
-    pak_dir = os.path.join(script_dir, '../PAK/Public/SecretScrolls/RootTemplates')
-    prep_dir = os.path.join(script_dir, 'generated_scrolls')
+    dirs = [
+        (os.path.join(script_dir, '../PAK/Public/SecretScrolls/RootTemplates'), 'Name'),
+        (os.path.join(script_dir, 'generated_scrolls'), 'Stats'),
+        (os.path.join(scrolls_root, 'SecretScrollsExtended/PAK/Public/SecretScrollsExtended/RootTemplates'), 'Stats'),
+        (os.path.join(scrolls_root, 'SecretScrollsUnlocked/PAK/Public/SecretScrollsUnlocked/RootTemplates'), 'Stats'),
+    ]
 
-    print('\n=== PAK/Public/SecretScrolls/RootTemplates ===')
-    process_dir(pak_dir, name_source='Name')
-
-    print('\n=== prep/generated_scrolls ===')
-    process_dir(prep_dir, name_source='Stats')
+    for directory, name_source in dirs:
+        directory = os.path.normpath(directory)
+        print(f'\n=== {directory} ===')
+        if os.path.isdir(directory):
+            process_dir(directory, name_source)
+        else:
+            print('  [!] directory not found')
