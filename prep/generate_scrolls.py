@@ -89,19 +89,31 @@ if __name__ == "__main__":
         """))
 
         for spell in spells:
-            scroll_file = f'generated_scrolls/{spell}.lsx'
             scroll = None
 
-            """ Generate or read scroll file """
-            if not os.path.isfile(scroll_file):
-                print(f" [>] generating scroll for {spell}")
-                name = short_spell_name(spell)
-                scroll = prepare_object(load_template(), spell)
-                write_xml(scroll, scroll_file)
-            else:
-                print(f" [.] loading scroll for {spell}")
+            """ Find existing scroll file (new LOOT_SCROLL_Name_UUID.lsx or legacy SpellType_Name.lsx) """
+            name = short_spell_name(spell)
+            import glob as _glob
+            existing = _glob.glob(f'generated_scrolls/LOOT_SCROLL_{name}_*.lsx')
+            if existing:
+                scroll_file = existing[0]
+                print(f" [.] loading scroll for {spell} from {scroll_file}")
                 with open(scroll_file, 'r') as fd:
                     scroll = xmltodict.parse(fd.read())
+            elif os.path.isfile(f'generated_scrolls/{spell}.lsx'):
+                scroll_file = f'generated_scrolls/{spell}.lsx'
+                print(f" [.] loading scroll for {spell} from legacy file {scroll_file}")
+                with open(scroll_file, 'r') as fd:
+                    scroll = xmltodict.parse(fd.read())
+            else:
+                print(f" [>] generating scroll for {spell}")
+                scroll = prepare_object(load_template(), spell)
+                uuid = None
+                for attr in scroll['save']['region']['node']['children']['node']['attribute']:
+                    if attr['@id'] == 'MapKey':
+                        uuid = attr['@value']
+                scroll_file = f'generated_scrolls/LOOT_SCROLL_{name}_{uuid}.lsx'
+                write_xml(scroll, scroll_file)
 
             print(f" [>] writing scroll {spell} to objects")
             objects.write(compile_item(scroll, spell))
